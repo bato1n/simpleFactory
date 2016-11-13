@@ -1,0 +1,3 @@
+# simpleFactory
+
+Wzorzec prosta fabryka
